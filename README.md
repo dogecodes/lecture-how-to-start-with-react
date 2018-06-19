@@ -4,7 +4,7 @@
 
 Лекция нацелена на людей, которые только слышали о React и хотят больше о нем узнать. В ней мы объясним как начать и куда стоит копать, чтобы разобраться в этой библиотеке.
 
-![YouTube](https://dzwonsemrish7.cloudfront.net/items/0u0g2n12473g1f2R0N0S/Image%202018-06-19%20at%205.38.56%20PM.png?v=fb4a5686)
+[![YouTube](https://dzwonsemrish7.cloudfront.net/items/0u0g2n12473g1f2R0N0S/Image%202018-06-19%20at%205.38.56%20PM.png?v=fb4a5686)](https://www.youtube.com/watch?v=argM2vIl-Mc)
 
 ## Лектор
 
